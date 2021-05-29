@@ -1,0 +1,2 @@
+fr/leopold/projectesiea/BuildConfig.java
+ fr.leopold.projectesiea.BuildConfig
