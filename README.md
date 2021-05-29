@@ -10,7 +10,7 @@ L'application utilise fireBase et sa base de donnée a temps reel.
 Le design est personallisé pour qu'il corresponde à l'univers pokemon.
 
 # Image Second Project 
-![](Image./project2.1.jpg)
-![](Image./project2.2.jpg)
-![](Image./project2.3.jpg)
-![](Image./project2.4.jpg)
+![](Image/project2.1.jpg)
+![](Image/project2.2.jpg)
+![](Image/project2.3.jpg)
+![](Image/project2.4.jpg)
